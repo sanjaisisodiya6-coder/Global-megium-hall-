@@ -1,0 +1,6 @@
+{
+  "name": "Gobar Museum Hall",
+  "description": "Gobar Museum Hall by Manju Mitti — Estd. 2026. Exhibition hall and eco-friendly cow dung products crafted through tradition and innovation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
